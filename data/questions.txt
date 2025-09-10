@@ -105,3 +105,141 @@ What's one thing you wish you knew earlier in CS
 How do you handle setbacks in projects
 What's the next big project you're planning
 What impact do you hope your work will have
+What first got you interested in computer science
+Why did you choose to study computer science
+What's a standout memory you've had at university
+Can you share a favorite experience from Waterloo so far
+What made you decide on the University of Waterloo
+Why did you pick Waterloo for your studies
+What do you enjoy most about being in tech communities
+What excites you about being involved in student groups
+What hobbies do you have outside of programming
+What do you like doing in your spare time that isn't coding
+Do you enjoy reading, and if so what kinds of books catch your attention
+What sort of books do you like to read when you have free time
+Do you have a favorite movie or TV series
+What shows or films do you enjoy the most
+What are your favorite pastimes outside of school
+How do you usually spend your free time outside of tech
+Do you enjoy fiction or nonfiction books more
+What type of stories keep you hooked when reading
+Is there a book you've read recently that you enjoyed
+Which movies do you watch over and over
+Is there a TV series you'd recommend to a friend
+What kind of shows or films do you like best
+How do you like to stay active day to day
+Do you have a favorite way of exercising
+What sports or activities do you enjoy the most
+Who's your favorite musician right now
+What kind of songs do you put on repeat
+Do you like going to concerts or just listening with headphones
+Where in the world would you love to visit someday
+What travel destinations are on your bucket list
+If you could go anywhere tomorrow, where would you go
+What city or country have you loved visiting the most
+What inspired you to build EasyMeet
+How does EasyMeet make event planning easier
+What technologies did you use to implement EasyMeet
+Can you explain how the CI/CD pipeline in EasyMeet works
+How did you design the testing strategy for EasyMeet
+What was the biggest challenge in building EasyMeet
+What makes EasyMeet different from other scheduling apps
+How did you approach the UI/UX design of EasyMeet
+What role did you play in building The Spyglass Website
+How did you optimize Spyglass for mobile
+What did you learn from using SvelteKit on Spyglass
+What was your biggest takeaway from creating a school magazine website
+How did you approach performance optimization for Spyglass
+What problem does Baseline solve
+How does Baseline detect fatigue using EEG data
+What techniques did you use for signal processing in Baseline
+How did you use MNE and SciPy in Baseline
+What did you learn about working with neurotech data
+What made Baseline stand out at Hack49
+What motivated you to create tinyraytracer
+How did you implement the Phong reflection model in tinyraytracer
+What differences did you notice coding it in Go versus C++
+What optimizations did you use for raytracing
+What did you learn about computer graphics through tinyraytracer
+What does ThirteenLabs do
+How does ThirteenLabs turn videos into interactive models
+What role did Twelve Labs' API play in ThirteenLabs
+How did you use FFMPEG in ThirteenLabs
+What was your contribution to winning Best Developer Tool at Hack the 6ix
+What challenges did you face building ThirteenLabs in a short time
+What is Eyedentify designed to do
+How did you implement facial recognition in Eyedentify
+What tech stack did you use for Eyedentify
+How did Eyedentify win Best Web App at YRHacks
+What were the hardest challenges in detecting multiple faces
+What features does your Personal Website include
+How did you make your website responsive
+What's your process for building a dark mode toggle
+Why did you choose Next.js for your personal site
+What did you want visitors to take away from your site
+What is the concept behind Cows Vs. Ducks
+How did you implement a state machine for Cows Vs. Ducks
+What was the hardest part about animating Cows Vs. Ducks
+How does Cows Vs. Ducks compare to Plants vs. Zombies
+What's the story behind Layoff Evaders
+How did you implement the VR mechanics in Layoff Evaders
+How did the Streamlit dashboard work in Layoff Evaders
+What challenges did you face integrating Firebase Realtime Database
+How did Layoff Evaders earn 2nd Place at DeltaHacks XI
+What problem does Replate address
+How did you design the dual-agent RAG pipeline in Replate
+How did Twilio fit into Replate
+What was the biggest technical challenge in building Replate
+How did Replate win the Eco-Mobility award at GenAI Genesis
+What does Screentime Wrapped visualize
+How did you integrate Screenpipe into Screentime Wrapped
+What inspired the Spotify Wrapped style in Screentime Wrapped
+What challenges did you face designing the data visualizations
+What features does the Workout Tracker include
+Why did you choose the MERN stack for Workout Tracker
+How did you structure the MVC architecture
+How does authentication work in Workout Tracker
+What does Jarvis automate
+How did you train a custom NER model for Jarvis
+How did Jarvis handle CI/CD tasks
+What challenges did you face integrating spaCy
+What made Jarvis successful at Hack Western 11
+What is raycaster-java used for
+How does raycasting differ from raytracing
+What challenges did you face implementing pseudo-3D rendering
+What did you learn about graphics programming from raycaster-java
+What's the story behind your birthday invitation project
+How did you implement authentication for the invitation
+What did you learn from experimenting with server actions
+Why did you deploy the invitation on Vercel
+What did you design for HJC Automation
+How did you make the HJC Automation site professional and modern
+What challenges did you face delivering a freelance project
+How did you ensure the landing page was responsive
+What was the goal of cloning camelAI's landing page
+How did you replicate camelAI's responsive design
+What challenges did you face supporting mobile and webkit
+What did you learn about deployment through this project
+What problem does Lilac Editor solve
+How did you use Java Swing for UML diagram editing
+What role did OOP principles play in Lilac Editor
+What was the most interesting part of event-driven programming here
+What inspired you to build Harboris
+How does Harboris organize group-buys
+How does Harboris detect website fraud
+What was it like making a Chrome extension for a hackathon
+How did OpenAI contribute to Harboris
+What is friend-bot designed to do
+How did you implement context windows in friend-bot
+How did you set up response regeneration
+What was it like integrating Cohere's API
+What helped friend-bot win Best Use of API at YRHacks
+What problem does Workd address
+How does Workd simplify the job search process
+Why did you choose a tinder-like interface for Workd
+How did you balance Flask and SvelteKit in Workd
+What did you learn from building Workd at Hack the Valley
+What is brainf designed for
+How does your brainf interpreter work
+What was challenging about writing a transpiler in C
+What did you learn from implementing brainf
