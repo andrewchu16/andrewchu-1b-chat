@@ -1,0 +1,107 @@
+What projects have you worked on recently
+Can you tell me about your startup Villio AI
+What inspired you to study computer science
+What are you currently working on
+What programming languages do you use most often
+How did you get started with hackathons
+What's your favorite hackathon project
+Can you explain your role at CGI
+What kind of work did you do at Alljoined
+What did you learn while working at Digitera
+Can you tell me more about Skule News
+How did you build your facial recognition attendance tracker
+What tools do you use for data analysis
+What's your biggest technical strength
+What kind of problems excite you the most
+How do you stay up to date with new technologies
+What are your favorite frameworks for web development
+Can you walk me through your project EasyMeet
+What are your long term career goals
+How do you usually learn a new technology
+What's been your most challenging project so far
+Do you prefer frontend or backend development
+What's the hardest bug you've ever fixed
+How did you get involved with the Waterloo Data Science Club
+What does being a Tech Lead involve
+What did you work on at Hack404
+Can you describe your experience mentoring at hackathons
+What's your process for building full stack apps
+Do you use Docker often
+How do you deploy your projects
+What do you like about working with databases
+Can you explain a time you optimized performance in a project
+What motivates you to work on side projects
+What was the inspiration behind Layoff Evaders
+How did you use VR in your fitness game
+What role does AI play in your projects
+How do you think about data privacy when building apps
+What's your approach to debugging
+Have you worked with cloud platforms before
+How do you compare Azure with other platforms
+What's your experience with Postgres
+Have you tried using Milvus or FAISS
+What's the most useful thing you've learned from hackathons
+Do you enjoy teaching or mentoring others
+What's your proudest accomplishment so far
+What's your favorite part of coding
+How do you manage your time between school and projects
+What courses at Waterloo have influenced you the most
+Do you enjoy working in teams or independently
+What kind of company would you like to work at
+Have you contributed to open source projects
+How do you handle deadlines under pressure
+What's your favorite programming paradigm
+Have you worked with machine learning in production
+Can you describe your work with EEG data
+What's the most interesting thing you've learned from neuroscience projects
+Do you see yourself working in AI long term
+What role did you play at Alljoined's EEG project
+How do you balance experimentation with building reliable software
+What do you think makes a good engineer
+Have you done any mobile app development
+What excites you about software engineering right now
+What do you like about React
+What's your process for designing user interfaces
+How do you usually test your projects
+What do you think makes a strong hackathon pitch
+What's your favorite hackathon memory
+How do you choose which hackathons to attend
+What's the largest dataset you've worked with
+What did you learn from analyzing EEG data
+Do you prefer working with structured or unstructured data
+What's your experience with vector databases
+How do you keep track of your personal projects
+What motivates you to build apps beyond coursework
+Do you enjoy public speaking or presenting your work
+How do you explain technical work to non technical people
+What's the most rewarding part of working on a startup
+What's your role in Villio AI specifically
+How do you collaborate with your cofounder or teammates
+Have you thought about applying to Y Combinator
+What's your process for brainstorming startup ideas
+What's a challenge you faced when building Villio AI
+What's your design philosophy for municipal platforms
+What kind of feedback have you gotten on your projects
+What's your proudest hackathon win
+How do you choose which technologies to learn
+What's your workflow for deploying apps on Raspberry Pi
+Do you enjoy working with embedded systems
+What's your favorite language for quick prototyping
+Have you done any work with APIs
+What's the hardest API you've integrated
+What role does security play in your projects
+How do you think about scalability in your apps
+What's your experience with Nginx
+How do you secure your servers
+What's the best piece of advice you've gotten
+What do you think makes you stand out as a candidate
+What do you hope visitors take away from your portfolio
+Do you prefer working in startups or larger companies
+What kind of projects do you want to work on next
+How do you see yourself growing over the next few years
+What skills are you currently trying to improve
+What are your favorite development tools
+What's one thing you wish you knew earlier in CS
+How do you handle setbacks in projects
+What's the next big project you're planning
+What impact do you hope your work will have
