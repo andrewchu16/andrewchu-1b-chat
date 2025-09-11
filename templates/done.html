@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}All Done - Data Generator{% endblock %}
+
+{% block main_content %}
+<div class="card no-sidebar">
+  <h2>All questions completed 🎉</h2>
+  <p>Your answers have been appended to <code>train2.jsonl</code>.</p>
+  <div class="actions">
+    <a class="btn" href="/download">Download JSONL</a>
+    <a class="btn secondary" href="/edit/0">Review Questions</a>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}Manage Questions - Data Generator{% endblock %}
+
+{% block extra_styles %}
+.question-item { margin-bottom: 1rem; padding: 1rem; border: 1px solid #eee; border-radius: 8px; }
+.question-item.answered { border-left: 4px solid #16a34a; background: #f0fdf4; }
+.question-text { margin-bottom: 0.5rem; font-weight: 500; }
+.question-actions { display: flex; gap: 0.5rem; }
+textarea { height: 80px; margin-bottom: 0.5rem; }
+{% endblock %}
+
+{% block main_content %}
+<div class="card no-sidebar wide">
+  <h2>Manage Questions ({{ total }} total)</h2>
+  
+  <div class="actions">
+    <a class="btn" href="/edit/0">Back to Questions</a>
+  </div>
+
+  <form method="post" action="/add-question" style="margin-bottom: 2rem; padding: 1rem; border: 2px dashed #ddd; border-radius: 8px;">
+    <label for="new_question"><strong>Add New Question</strong></label><br/>
+    <textarea id="new_question" name="question" placeholder="Enter your new question here..." required></textarea>
+    <button class="btn" type="submit">Add Question</button>
+  </form>
+
+  {% for item in question_items %}
+  <div class="question-item {% if item.answered %}answered{% endif %}">
+    <div class="question-text">
+      {{ item.index + 1 }}. {{ item.question }}
+      <span class="status-badge {{ item.status_class }}">{{ item.status_text }}</span>
+    </div>
+    <div class="question-actions">
+      <a class="btn small secondary" href="/edit/{{ item.index }}">{{ item.action_text }}</a>
+      <a class="btn small secondary" href="/edit-question/{{ item.index }}">Edit Question</a>
+      <a class="btn small danger" href="/delete-question/{{ item.index }}" onclick="return confirm('Are you sure?')">Delete</a>
+    </div>
+  </div>
+  {% else %}
+  <p>No questions available. Add some questions using the form above.</p>
+  {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,7 @@
+models/*
+!.gitkeep
+
+adapters/*
+!.gitkeep
+
+__pycache__/*

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{% block title %}Data Generator{% endblock %}</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 0; padding: 0; }
+    .layout { display: flex; min-height: 100vh; }
+    .sidebar { width: 300px; background: #f8fafc; border-right: 1px solid #e2e8f0; padding: 1rem; overflow-y: auto; }
+    .main-content { flex: 1; padding: 2rem; }
+    .card { max-width: 900px; padding: 1.25rem 1.5rem; border: 1px solid #ddd; border-radius: 12px; }
+    .card.wide { max-width: 1200px; }
+    .card.no-sidebar { margin: 2rem auto; max-width: 900px; }
+    textarea { width: calc(100% - 1rem); padding: .75rem; font: inherit; box-sizing: border-box; }
+    .hint { color:#666; font-size:.9rem; }
+    .actions { margin-top: 1rem; display:flex; gap:.5rem; align-items:center; }
+    .btn { padding: .6rem 1rem; border: 1px solid #222; border-radius: 10px; background:#111; color:#fff; cursor:pointer; text-decoration: none; }
+    .btn.secondary { background:#fff; color:#111; }
+    .btn.danger { background:#dc2626; border-color:#dc2626; }
+    .btn.small { padding: .4rem .8rem; font-size: 0.9rem; border-radius: 6px; }
+    .meta { color:#444; margin-bottom:.5rem; }
+    .status-badge { display: inline-block; padding: .25rem .5rem; border-radius: 6px; font-size: .8rem; font-weight: 500; margin-left: .5rem; }
+    .status-answered { background: #dcfce7; color: #166534; }
+    .status-unanswered { background: #fef3c7; color: #92400e; }
+    pre { white-space: pre-wrap; }
+    
+    /* Sidebar styles */
+    .sidebar h3 { margin-top: 0; margin-bottom: 1rem; color: #1f2937; }
+    .question-list { list-style: none; padding: 0; margin: 0; }
+    .question-item { margin-bottom: 0.5rem; }
+    .question-link { display: block; padding: 0.75rem; border-radius: 8px; text-decoration: none; color: #374151; border: 1px solid transparent; }
+    .question-link:hover { background: #e5e7eb; }
+    .question-link.active { background: #3b82f6; color: white; border-color: #2563eb; }
+    .question-link.answered { border-left: 4px solid #16a34a; }
+    .question-number { font-weight: 600; }
+    .question-preview { font-size: 0.875rem; color: #6b7280; margin-top: 0.25rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .question-link.active .question-preview { color: #e5e7eb; }
+    
+    .sidebar-actions { margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid #e5e7eb; }
+    .progress-indicator { background: #f3f4f6; border-radius: 8px; padding: 0.75rem; margin-bottom: 1rem; }
+    .progress-text { font-size: 0.875rem; color: #6b7280; }
+    .progress-bar { width: 100%; height: 8px; background: #e5e7eb; border-radius: 4px; margin-top: 0.5rem; }
+    .progress-fill { height: 100%; background: #3b82f6; border-radius: 4px; transition: width 0.3s ease; }
+    
+    {% block extra_styles %}{% endblock %}
+  </style>
+</head>
+<body>
+  {% block layout %}
+  <div class="card no-sidebar">
+    {% block main_content %}{% endblock %}
+  </div>
+  {% endblock %}
+  {% block scripts %}{% endblock %}
+</body>
+</html>
