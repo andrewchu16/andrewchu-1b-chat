@@ -178,6 +178,35 @@ def update_answer(i: int, response: str = Form(...)):
         update_or_append_record(questions[i], response)
     return RedirectResponse(url=f"/edit/{i}", status_code=303)
 
+@app.post("/update-answer-next-unanswered/{i}")
+def update_answer_next_unanswered(i: int, response: str = Form(...)):
+    if 0 <= i < len(questions):
+        update_or_append_record(questions[i], response)
+    
+    # Find next unanswered question
+    existing_answers = load_existing_answers()
+    next_i = i + 1
+    
+    # Look for the next unanswered question starting from current + 1
+    while next_i < len(questions):
+        if questions[next_i] not in existing_answers:
+            break
+        next_i += 1
+    
+    # If no unanswered questions found after current, wrap around to beginning
+    if next_i >= len(questions):
+        next_i = 0
+        while next_i < i:
+            if questions[next_i] not in existing_answers:
+                break
+            next_i += 1
+        
+        # If we've checked all questions and none are unanswered, go to done page
+        if next_i >= i:
+            return templates.TemplateResponse("done.html", {"request": None})
+    
+    return RedirectResponse(url=f"/edit/{next_i}", status_code=303)
+
 @app.post("/update-question/{i}")
 def update_question(i: int, question: str = Form(...)):
     if 0 <= i < len(questions):

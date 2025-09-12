@@ -128,8 +128,8 @@
       <form method="post" action="/update-answer/{{ i }}" id="answer-form">
         <label for="response"><strong>Response</strong></label><br/>
         <textarea id="response" name="response" class="textarea-large" required 
-                  placeholder="Type your response here. Press Ctrl+Enter (or Cmd+Enter on Mac) to submit.">{{ existing_answer }}</textarea>
-        <div class="hint">Tip: Press Ctrl+Enter (or Cmd+Enter on Mac) to quickly submit your response.</div>
+                  placeholder="Type your response here. Press Ctrl+Enter (or Cmd+Enter on Mac) to submit and go to next unanswered question.">{{ existing_answer }}</textarea>
+        <div class="hint">Tip: Press Ctrl+Enter (or Cmd+Enter on Mac) to save and jump to the next unanswered question.</div>
         <div class="actions">
           <button class="btn" type="submit">{{ save_button_text }}</button>
           {% if existing_answer %}
@@ -158,7 +158,10 @@
   document.getElementById('response').addEventListener('keydown', function(e) {
     if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
       e.preventDefault();
-      document.getElementById('answer-form').submit();
+      // Change form action to navigate to next unanswered question
+      const form = document.getElementById('answer-form');
+      form.action = '/update-answer-next-unanswered/{{ i }}';
+      form.submit();
     }
   });
 
