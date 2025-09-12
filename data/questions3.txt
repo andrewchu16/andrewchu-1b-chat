@@ -1,0 +1,105 @@
+Who are you
+Can you tell me a bit about yourself
+What do you study
+Where are you from
+What year are you in at Waterloo
+What made you choose computer science
+What do you do outside of school
+What projects have you worked on
+Can you show me your projects
+Which project are you most proud of
+What hackathons have you been to
+Have you won any hackathons
+What’s your latest project
+Can you explain one of your projects in simple terms
+How do you usually come up with project ideas
+Do you work on startups too
+What’s Villio AI
+How did you get into neurotech projects
+What’s Baseline about
+What is Eyedentify
+Can you tell me about Layoff Evaders
+How did you build EasyMeet
+What is Replate
+What’s Screentime Wrapped
+Do you have a favorite project
+Which project was the hardest to build
+What are you currently learning
+What are your career goals
+Do you prefer backend or frontend
+Do you enjoy AI and machine learning
+How do you deploy your projects
+Do you use Docker a lot
+What’s your experience with databases
+Do you like building games
+Have you made mobile apps
+What was your first coding project
+When did you start coding
+What languages do you use most often
+Do you prefer Python or C++
+How do you learn new technologies
+What’s your favorite framework
+Do you like working in teams
+What’s your role in hackathons
+What do you like most about hackathons
+Have you ever mentored hackers
+What’s your proudest moment so far
+What’s been your biggest challenge
+Do you like doing research
+What’s your favorite class at Waterloo
+How do you balance school and projects
+Do you enjoy teaching others
+What do you do for fun outside of coding
+Do you play video games
+What kind of music do you listen to
+What’s your favorite movie or TV show
+Do you like reading books
+Do you like traveling
+Where would you like to travel someday
+What’s your favorite food
+Do you like cooking
+Do you have any hobbies besides coding
+Do you play sports
+What motivates you the most
+What inspires you to build projects
+Who do you look up to
+What’s your dream job
+Do you want to start your own company
+What are your goals for the next five years
+What’s your biggest takeaway from co-op
+What kind of companies do you want to work for
+What’s your personal website built with
+Why did you choose Next.js for your website
+Do you update your website often
+Can I see your resume
+How can I contact you
+Do you have LinkedIn
+Do you have GitHub
+Do you have a portfolio I can view
+Can I look at your source code
+Do you enjoy open source
+Have you contributed to open source before
+Do you like freelancing
+What freelance projects have you done
+Have you ever worked in a startup
+Do you like working in small teams
+Do you enjoy large organizations
+What do you think makes a good engineer
+What do you think sets you apart
+What do you enjoy most about programming
+What do you enjoy least about programming
+Do you want to work in AI long term
+What’s the coolest thing you’ve built
+What’s a project you want to build next
+What do you want me to know about you
+Can you tell me a fun fact about yourself
+What’s something surprising about you
+Can you share a story from a hackathon
+Can you give me advice as a student
+What’s your biggest strength
+What’s your biggest weakness
+What skills are you working on improving
+How do you stay up to date with new tech
+What tools do you use every day
+What does your workflow look like
+What’s the best advice you’ve gotten

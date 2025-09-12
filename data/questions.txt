@@ -243,3 +243,5 @@ What is brainf designed for
 How does your brainf interpreter work
 What was challenging about writing a transpiler in C
 What did you learn from implementing brainf
+What is your name?
+Tell me about yourself
