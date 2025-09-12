@@ -28,7 +28,6 @@ Can you describe your experience mentoring at hackathons
 What's your process for building full stack apps
 Do you use Docker often
 How do you deploy your projects
-What do you like about working with databases
 Can you explain a time you optimized performance in a project
 What motivates you to work on side projects
 What was the inspiration behind Layoff Evaders
@@ -245,3 +244,512 @@ What was challenging about writing a transpiler in C
 What did you learn from implementing brainf
 What is your name?
 Tell me about yourself
+Can you walk me through one of your favorite projects
+What was the biggest technical challenge you've faced
+How do you usually approach solving a tough bug
+What kind of backend work do you enjoy most
+Do you prefer building new features or optimizing existing ones
+What's your experience with distributed systems
+How do you usually design APIs
+What's your go-to database for projects and why
+Can you describe a time you had to balance speed vs quality in code
+What's the most complex system you've built
+How do you make your code maintainable for others
+What's your favorite algorithm and why
+Do you prefer Python or C++ for problem solving
+How do you prepare for coding interviews
+What's your favorite LeetCode or interview problem
+Have you done any work with concurrency or multithreading
+What's the largest codebase you've worked on
+How do you keep projects well documented
+What's your process for setting up CI/CD
+Do you write tests before or after writing code
+What kind of testing frameworks do you like to use
+What was your role in building Skule News
+How did you integrate Firebase into Skule News
+What was the most interesting part of working on Villio AI
+How do you handle real-time data in your apps
+What was it like optimizing websocket code at Alljoined
+How did you improve timing accuracy for EEG experiments
+What's your experience with building RAG chatbots
+Which embedding models do you like using
+What's your take on vector databases like FAISS vs pgvector
+How do you evaluate the performance of an ML model
+What do you enjoy most about data visualization
+How do you usually analyze experimental data
+What tools do you use for statistical analysis
+Have you worked with Docker Compose or Kubernetes
+What's your process for deploying to the cloud
+How do you configure Nginx for your projects
+How do you handle logging and monitoring in your systems
+Have you set up SSL or certificates before
+How do you secure APIs and backend endpoints
+What's your approach to authentication in web apps
+Do you prefer JWT or session-based auth
+What's your opinion on monoliths vs microservices
+How do you think about scalability when designing software
+Have you worked with message queues like Redis or RabbitMQ
+What role did Celery play in your projects
+How do you design systems to recover from failures
+What tradeoffs do you make when choosing a tech stack
+How do you usually model data for your projects
+What are some tradeoffs you've faced in schema design
+Have you worked with NoSQL databases
+What's your experience with ORMs like Prisma or SQLAlchemy
+Do you like writing raw SQL or using abstractions
+How do you usually test your database queries
+What was your contribution to Eyedentify
+How did you implement face recognition in Eyedentify
+What libraries did you use for VR development
+How did you track physical movements in Layoff Evaders
+What's your experience with OpenCV
+How do you optimize performance for real-time applications
+Do you prefer working with GPUs or CPUs for ML
+How did you structure your raytracer project
+What was the hardest part about building a renderer
+How do you handle large data models in memory
+What's your process for designing REST APIs
+Have you worked with gRPC before
+How do you handle streaming responses in FastAPI
+What's your experience with Next.js server routes
+How do you debug networking issues in containers
+What's your experience with load balancers
+Do you use any caching strategies in your apps
+What's your experience with LFU or LRU caches
+Have you worked on improving query latency before
+How do you measure efficiency in your apps
+How do you benchmark different database options
+What's your process for code reviews
+What's your experience with GitHub Actions
+Do you prefer GitHub, GitLab, or Bitbucket for projects
+How do you keep a team project organized
+What's your favorite collaboration tool for coding
+How do you usually split work on a hackathon team
+What's your process for making a hackathon pitch deck
+What was the biggest takeaway from Hack404
+How do you mentor new developers at hackathons
+What do you enjoy most about hackathon teamwork
+What's your opinion on pair programming
+What's your favorite data structure to work with
+Have you implemented any algorithms from scratch recently
+What's your approach to dynamic programming problems
+How do you manage complexity in large systems
+Do you use design patterns in your work
+What's your favorite design pattern
+Have you worked with state machines before
+How did you implement state in your Java game
+What's your opinion on event-driven programming
+How do you decide between synchronous and asynchronous code
+What's your approach to writing scalable frontend apps
+Do you prefer TypeScript or JavaScript
+What's your process for styling frontends
+Do you like using TailwindCSS or CSS-in-JS
+How do you manage frontend state in React apps
+What's your experience with SvelteKit
+What's the hardest frontend bug you've solved
+What trip gave you the best memories
+Where have you traveled that you'd love to return to
+Do you get more done in busy places or quiet ones
+Do you like the energy of a café or the calm of a library
+What kind of spaces do you focus best in
+Are you more awake in the mornings or at night
+When are you usually at your most creative
+Do you prefer mornings or late nights for working
+Do you feel more at home in urban areas or in nature
+Would you choose a busy city or a quiet cabin
+What kind of environment makes you happiest
+What's your favorite comfort meal
+What food makes you feel at home
+What's a dish you'll never say no to
+Do you enjoy trying out new recipes
+Do you like experimenting in the kitchen
+What do you enjoy baking or cooking the most
+Do you have a favorite board game from childhood
+What video games do you like to play now
+Which games do you go back to again and again
+Is there something outside of tech you've always wanted to study
+What subject would you explore if it wasn't computer science
+What's a new hobby you'd like to try one day
+Do you like to play instruments casually or seriously
+Is there an instrument you'd love to learn
+How does music fit into your daily life
+Do you enjoy sketching or painting
+Do you like expressing yourself through art
+What role does creativity play in your life outside of coding
+What does your ideal weekend look like
+How do you like to spend Saturdays and Sundays
+What's your favorite way to recharge on the weekend
+What do you do to relax after a busy week
+How do you usually unwind in the evenings
+What's your go-to activity for destressing
+Which podcasts do you follow
+What podcast would you recommend right now
+Do you prefer podcasts, audiobooks, or music
+What habit has had the biggest positive impact on your day
+What little routine helps you stay grounded
+What's a daily practice that sets the tone for your day
+What motivates you beyond academics and work
+What inspires you outside of coding
+What's your “why” in life outside of tech
+Do you like to keep a journal
+Do you write down your thoughts or reflections
+Do you prefer digital journaling or pen and paper
+What was one of your happiest childhood moments
+What memory from childhood still makes you smile
+What's a funny story from when you were a kid
+Who do you consider a mentor or inspiration in your life
+Who's had the most impact on your journey so far
+Who do you admire most and why
+What's a personal value that drives your choices
+What beliefs shape the way you live
+What principles guide your daily life
+Do you recharge best alone or with others
+Do you see yourself as more social or reflective
+Do you prefer spending time in large groups or one-on-one
+What place do you most want to explore someday
+What dream vacation do you think about often
+Where do you imagine yourself traveling in the future
+What's your favorite type of food to try
+Do you enjoy adventurous eating or familiar foods more
+What cuisine do you find most interesting
+What's your favorite holiday tradition
+Do you look forward to any special time of year
+What season makes you feel most at peace
+What's the most valuable piece of guidance you've gotten
+What advice has stuck with you for years
+What words of wisdom do you try to live by
+Do you play sports or have another way you stay active
+How do you usually keep yourself physically active
+Who's an artist or musician you listen to a lot
+What kind of music is usually on your playlist
+Do you like traveling, and where would you love to go
+What's a place you dream about visiting someday
+Where's the best place you've ever traveled to
+What's a favorite destination you've been to in the past
+Do you prefer working in cafés or quiet spaces
+Do you feel more productive in a busy café or at home
+Are you more productive in the mornings or late at night
+Do you see yourself as more of a night owl or an early riser
+Do you like the hustle of the city or the calm of nature
+Would you rather spend time in a city or out in nature
+What's a comfort food you go back to often
+What food always puts you in a good mood
+Do you like cooking or baking at home
+What kind of meals do you enjoy making for yourself
+What's your favorite board or video game
+Do you enjoy board games or playing video games more
+What's something outside of tech you'd like to learn
+What new skill have you always wanted to pick up
+Do you play an instrument or make music
+What role does music play in your life
+Do you have a favorite art or design activity
+Do you express creativity outside of programming
+How do you usually spend your weekends
+What's your go-to activity on a weekend
+What's your favorite way to relax after a long day
+How do you usually unwind when you're tired
+Do you listen to podcasts, and which ones do you enjoy
+What's a podcast you'd recommend to others
+What little habits make your days better
+What's a small daily ritual that keeps you grounded
+What drives you beyond just work and school
+What motivates you outside of academics
+Do you enjoy writing or journaling
+Do you write down thoughts or reflections in a journal
+What's a memory from childhood that stands out to you
+Do you have a favorite story from when you were a kid
+Who's someone you consider a role model
+Who has influenced you the most in your life
+What values do you hold close
+What personal values guide your decisions
+Do you prefer spending time with others or alone
+Do you see yourself as more social or independent
+What's your dream destination for travel
+If you could go anywhere, where would you go first
+Do you enjoy trying different foods
+Do you like experimenting with new cuisines
+What time of year is your favorite
+Do you prefer summer, winter, spring, or fall
+Do you have family traditions you cherish
+What family traditions are meaningful to you
+What's the best advice you've ever gotten from someone
+What's a piece of wisdom that's stayed with you
+What lesson did you only learn the hard way
+What's an experience that taught you something important
+Who inspires you in your daily life
+What kind of people inspire and motivate you
+Do you like meeting new people and networking
+Do you enjoy making new connections
+What's your go-to coffee or tea order
+How do you usually take your coffee or tea
+Do you like drawing or sketching
+Do you create art in your free time
+What's a personal achievement you're most proud of
+What accomplishment means the most to you personally
+Do you enjoy being outdoors in nature
+Do you like going for hikes or long walks outside
+What's your favorite way to work out or exercise
+How do you usually stay in shape
+What simple joy makes your day better
+What little thing brings you happiness each day
+Do you like photography as a hobby
+Do you take photos just for fun
+What's a guilty pleasure you enjoy
+What's a show, snack, or hobby you love but don't talk about much
+Do you see yourself as an introvert or an extrovert
+Are you more outgoing or more reserved
+What games did you love playing as a kid
+What childhood activities do you remember fondly
+Do you like solving puzzles or riddles
+Do you enjoy brain teasers or logic games
+What's something surprising about you most people don't know
+What fact about you might surprise others
+Do you volunteer or enjoy giving back to your community
+Do you like being involved in community work
+What's a cause or issue you care about deeply
+Is there a movement or cause that's important to you
+What's your favorite animal
+Do you have a favorite pet or animal
+Which season of the year do you like most
+What time of year makes you happiest
+What do you value most in friendships
+What do you look for in close friends
+Do you enjoy going to concerts or live music
+Do you like listening to bands perform live
+How do you celebrate your achievements
+What's your favorite way to reward yourself
+What book or movie has had the biggest influence on you
+Has any story changed the way you think
+Do you enjoy visiting museums or galleries
+Do you like looking at art or history collections
+What are you most curious about right now
+What topic do you want to explore further
+Do you prefer carefully planning or being spontaneous
+Are you more of a planner or a go-with-the-flow type
+What tradition from your hometown means a lot to you
+Do you have cultural traditions you love sharing
+Do you prefer a night in or going out with friends
+Would you rather spend your evening at home or outside
+What's your go-to snack when you're working
+What food keeps you going while studying
+Do you prefer watching the sunrise or sunset
+Do you enjoy the calm of early mornings or evenings more
+What's a life goal unrelated to your career
+What's a dream you have that has nothing to do with work
+Do you like writing letters or notes to people
+Do you enjoy handwritten notes over digital messages
+How do you like to stay in touch with friends
+What's your favorite way of connecting with others
+Do you have a sweet tooth
+What dessert do you like best
+Do you like gardening or being around plants
+Do you enjoy nature walks or quiet time outside
+What's a dream outside of your professional goals
+Do you have aspirations that go beyond your career
+What's a hackathon memory that isn't about coding
+What's a fun moment from a hackathon outside of projects
+Do you like playing card games
+Do you have a favorite card game
+What habit are you trying to pick up right now
+What daily routine are you working on building
+Do you prefer mountains or beaches
+Would you rather spend a day in the mountains or by the sea
+What's your favorite local food spot
+Do you have a go-to restaurant nearby
+Do you enjoy street festivals or open markets
+Do you like exploring local fairs and events
+What's something you do every day without fail
+What's a non-negotiable part of your daily routine
+Do you enjoy watching the night sky
+Do you like stargazing or astronomy
+What scent do you enjoy most
+What's a smell that reminds you of home
+Do you like minimalistic spaces or cozy environments
+Do you prefer clean modern or warm cozy spaces
+What do you like doing on a rainy day
+How do you usually spend rainy afternoons
+Do you collect anything
+Have you ever had a collection you cared about
+What's a fun story from when you were younger
+What's a childhood memory that still makes you smile
+Do you like long car rides
+Do you enjoy road trips with friends or family
+What always makes you laugh
+What never fails to cheer you up
+Do you enjoy writing creatively
+Do you write stories or poems in your spare time
+What's your favorite fruit
+What snack do you enjoy most
+Do you like building or making things by hand
+Do you create things outside of coding projects
+What moment made you feel especially proud of yourself
+When did you last feel truly accomplished
+Do you like surprises or do you prefer plans
+Do you enjoy being surprised by others
+What's a memory with friends you'll never forget
+What's a fun story from spending time with friends
+Do you like cooking for others
+Do you enjoy preparing meals for friends or family
+What's something you've always wanted to try
+What's an experience you've been waiting to have
+Do you prefer film or digital photography
+What kind of photography do you enjoy most
+What's the best advice you like to give others
+What lesson do you often share with people
+Do you enjoy learning new languages
+Have you ever studied another language for fun
+What's your favorite way to spend an evening
+How do you usually spend your free evenings
+Do you prefer weekends at home or going out
+Would you rather stay in on weekends or explore outside
+What always brings you peace
+What helps you feel calm and centered
+What originally sparked your curiosity about computer science
+How did you first discover your interest in technology
+What moment made you realize you wanted to study CS
+What's been the most memorable experience in university so far
+Is there a story from your time at Waterloo that stands out
+What's something you'll never forget from your school years
+Why did you choose Waterloo over other schools
+What made Waterloo feel like the right place for you
+What drew you to apply to the University of Waterloo
+What's the best part of being involved in student tech communities
+What do you enjoy most about connecting with other tech students
+How has being in tech communities shaped your experience
+What do you like to do when you're not coding
+How do you personally define being “ready” for growth and chaos in a work environment?
+What does it mean to you to hold the tension between opposing ideas in a workplace?
+Can you share a time when you had to work with people whose values or beliefs were very different from yours?
+How do you balance personal beliefs with professional responsibility when working on an open platform?
+What does stewardship of a platform mean to you, and how would you approach it at Shopify?
+How comfortable are you with making objective decisions in situations charged with strong emotions?
+What do you think about Shopify’s stance of being both pro-entrepreneurship and pro-equality of opportunity?
+Tell me about a time you disagreed with a company’s stance or decision but still committed to the mission.
+How do you handle complexity and ambiguity when making decisions?
+How would you explain to a new team member why Shopify is a team and not a family?
+What does being on a high-performance team mean to you?
+How do you interpret the expectation that everyone must re-qualify for their job every year?
+How do you maintain both compassion for individuals and accountability for performance?
+What strategies would you use to contribute to team cohesion and avoid divisiveness?
+How do you view the tradeoff between inclusivity of merchants and public stances Shopify takes?
+What role do you think entrepreneurship plays in driving local communities forward?
+Why do you think decreasing friction is critical to growing entrepreneurship?
+Can you describe how you show respect for craftsmanship in your own work?
+How would you distinguish between consumerism and craftsmanship in product development?
+What do you think it means to teach the world Shopify’s worldview?
+How do you respond to the idea that ordinary people change the world?
+How would you explain the universality of entrepreneurship to someone skeptical?
+How do you think leadership should adapt in times of crisis and ambiguity?
+What does setting clear expectations mean to you as a leader or team member?
+How do you balance ambition with the need for clarity and focus?
+How do you see AI transforming the way you work day to day?
+What role do you think reflexive AI usage should play in prototyping and experimentation?
+Tell me about a time you used AI as a thought partner, tutor, or pair programmer.
+How do you approach learning new tools and integrating them into your craft?
+How would you demonstrate that your team has exhausted AI capabilities before requesting more resources?
+What excites you about the idea of entrepreneurship in a world where AI is universally available?
+Who are you
+Can you tell me a bit about yourself
+What do you study
+Where are you from
+What year are you in at Waterloo
+What made you choose computer science
+What do you do outside of school
+What projects have you worked on
+Can you show me your projects
+Which project are you most proud of
+What hackathons have you been to
+Have you won any hackathons
+What’s your latest project
+Can you explain one of your projects in simple terms
+How do you usually come up with project ideas
+Do you work on startups too
+What’s Villio AI
+How did you get into neurotech projects
+What’s Baseline about
+What is Eyedentify
+Can you tell me about Layoff Evaders
+How did you build EasyMeet
+What is Replate
+What’s Screentime Wrapped
+Do you have a favorite project
+Which project was the hardest to build
+What are you currently learning
+What are your career goals
+Do you prefer backend or frontend
+Do you enjoy AI and machine learning
+How do you deploy your projects
+Do you use Docker a lot
+What’s your experience with databases
+Do you like building games
+Have you made mobile apps
+What was your first coding project
+When did you start coding
+What languages do you use most often
+Do you prefer Python or C++
+How do you learn new technologies
+What’s your favorite framework
+Do you like working in teams
+What’s your role in hackathons
+What do you like most about hackathons
+Have you ever mentored hackers
+What’s your proudest moment so far
+What’s been your biggest challenge
+Do you like doing research
+What’s your favorite class at Waterloo
+How do you balance school and projects
+Do you enjoy teaching others
+What do you do for fun outside of coding
+Do you play video games
+What kind of music do you listen to
+What’s your favorite movie or TV show
+Do you like reading books
+Do you like traveling
+Where would you like to travel someday
+What’s your favorite food
+Do you like cooking
+Do you have any hobbies besides coding
+Do you play sports
+What motivates you the most
+What inspires you to build projects
+Who do you look up to
+What’s your dream job
+Do you want to start your own company
+What are your goals for the next five years
+What’s your biggest takeaway from co-op
+What kind of companies do you want to work for
+What’s your personal website built with
+Why did you choose Next.js for your website
+Do you update your website often
+Can I see your resume
+How can I contact you
+Do you have LinkedIn
+Do you have GitHub
+Do you have a portfolio I can view
+Can I look at your source code
+Do you enjoy open source
+Have you contributed to open source before
+Do you like freelancing
+What freelance projects have you done
+Have you ever worked in a startup
+Do you like working in small teams
+Do you enjoy large organizations
+What do you think makes a good engineer
+What do you think sets you apart
+What do you enjoy most about programming
+What do you enjoy least about programming
+Do you want to work in AI long term
+What’s the coolest thing you’ve built
+What’s a project you want to build next
+What do you want me to know about you
+Can you tell me a fun fact about yourself
+What’s something surprising about you
+Can you share a story from a hackathon
+Can you give me advice as a student
+What’s your biggest strength
+What’s your biggest weakness
+What skills are you working on improving
+How do you stay up to date with new tech
+What tools do you use every day
+What does your workflow look like
+What’s the best advice you’ve gotten
