@@ -52,40 +52,44 @@
 {% block layout %}
 <div class="layout">
   <div class="sidebar">
-    <h3>Questions ({{ total }})</h3>
+    <div class="sidebar-header">
+      <h3>Questions ({{ total }})</h3>
 
-    <div class="progress-indicator">
-      <div class="progress-text">{{ answered_count }} of {{ total }} answered</div>
-      <div class="progress-bar">
-        <div class="progress-fill" style="width: {{ progress_percentage }}%"></div>
+      <div class="progress-indicator">
+        <div class="progress-text">{{ answered_count }} of {{ total }} answered</div>
+        <div class="progress-bar">
+          <div class="progress-fill" style="width: {{ progress_percentage }}%"></div>
+        </div>
+      </div>
+
+      <div class="filter-controls">
+        <label class="filter-toggle">
+          <input type="checkbox" id="hideAnswered" onchange="toggleAnsweredQuestions()">
+          <span class="filter-label">Hide answered questions</span>
+        </label>
       </div>
     </div>
 
-    <div class="filter-controls">
-      <label class="filter-toggle">
-        <input type="checkbox" id="hideAnswered" onchange="toggleAnsweredQuestions()">
-        <span class="filter-label">Hide answered questions</span>
-      </label>
+    <div class="sidebar-content">
+      <ul class="question-list">
+        {% for question_item in questions_data %}
+        <li class="question-item">
+          <a href="/edit/{{ question_item.index }}" 
+             class="question-link {% if question_item.index == current_index %}active{% endif %} {% if question_item.answered %}answered{% endif %}">
+            <div class="question-number">Q{{ question_item.index + 1 }}</div>
+            <div class="question-preview">{{ question_item.preview }}</div>
+            {% if question_item.answered %}
+              <span class="status-badge status-answered">Answered</span>
+            {% else %}
+              <span class="status-badge status-unanswered">Not Answered</span>
+            {% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
     </div>
 
-    <ul class="question-list">
-      {% for question_item in questions_data %}
-      <li class="question-item">
-        <a href="/edit/{{ question_item.index }}" 
-           class="question-link {% if question_item.index == current_index %}active{% endif %} {% if question_item.answered %}answered{% endif %}">
-          <div class="question-number">Q{{ question_item.index + 1 }}</div>
-          <div class="question-preview">{{ question_item.preview }}</div>
-          {% if question_item.answered %}
-            <span class="status-badge status-answered">Answered</span>
-          {% else %}
-            <span class="status-badge status-unanswered">Not Answered</span>
-          {% endif %}
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-
-    <div class="sidebar-actions">
+    <div class="sidebar-footer">
       <a href="/manage" class="btn small secondary">Manage Questions</a>
       <a href="/download" class="btn small secondary">Download JSONL</a>
     </div>

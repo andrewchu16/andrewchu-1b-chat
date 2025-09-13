@@ -5,3 +5,5 @@ adapters/*
 !.gitkeep
 
 __pycache__/*
+
+.DS_Store

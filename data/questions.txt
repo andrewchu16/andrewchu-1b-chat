@@ -36,9 +36,7 @@ What role does AI play in your projects
 How do you think about data privacy when building apps
 What's your approach to debugging
 Have you worked with cloud platforms before
-How do you compare Azure with other platforms
 What's your experience with Postgres
-Have you tried using Milvus or FAISS
 What's the most useful thing you've learned from hackathons
 Do you enjoy teaching or mentoring others
 What's your proudest accomplishment so far
