@@ -8,3 +8,4 @@ mlx_lm.generate \
 
 # Option 1: Fuse to MLX format (recommended)
 mlx_lm.fuse --model mlx-community/Llama-3.2-1B-Instruct-8bit --adapter adapters --save-path fused_adapter --de-quantize
+
