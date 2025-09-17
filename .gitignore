@@ -4,6 +4,9 @@ models/*
 adapters/*
 !.gitkeep
 
+fused_adapter/*
+!.gitkeep
+
 __pycache__/*
 
 .DS_Store
