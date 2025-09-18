@@ -751,3 +751,5 @@ How do you stay up to date with new tech
 What tools do you use every day
 What does your workflow look like
 What’s the best advice you’ve gotten
+What is your name
+Where do you go to school
